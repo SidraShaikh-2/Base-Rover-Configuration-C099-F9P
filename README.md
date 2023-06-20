@@ -1,4 +1,4 @@
-# Base-Rover-Configuration-C099-F9P
+# Base-Rover-Configuration-C099-F9P (Wireless)
 This is the tutorial for setting up two Ublox GNSS C099-F9P boards as Base &amp; Rover communication Wireless with RTK corrections.
 
 # Highlights
@@ -9,4 +9,12 @@ This is the tutorial for setting up two Ublox GNSS C099-F9P boards as Base &amp;
 # Product description
 The C099-F9P application board allows efficient evaluation of ZED-F9P, the u-blox F9 high precision positioning module. The ZED-F9P module provides multi-band GNSS positioning and built-in RTK technology providing centimeter-level accuracy to users. The C099-F9P application board integrates the ZED-F9P module and includes an ODIN-W2 short-range module for connectivity options.
 The application board is designed to support the evaluation of the ZED-F9P module, while the ODIN-W2 module provides wireless connectivity capabilities for everyday use cases. Refer to the C099-F9P User Guide for details on supported configurations. The u-center evaluation software provides a powerful platform for
-the evaluation of u-blox GNSS receivers. With U-center, data can be logged and visualized in real-time. The u-center software contains an NTRIP server/client which can be used to manage the RTCM correction stream to and from a C099-F9P application board. 
+the evaluation of u-blox GNSS receivers. With U-center, data can be logged and visualized in real-time. The u-center software contains an NTRIP server/client which can be used to manage the RTCM correction stream to and from a C099-F9P application board.
+
+<img src="https://content.u-blox.com/sites/default/files/2022-04/C099_Front-withcover_2018-Oct_CMYK.jpg" alt="Image" width="400">
+
+# Setup:
+The starting situation will be base on WiFi AP mode and rover in Wifi STA mode.  
+
+
+
